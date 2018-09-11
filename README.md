@@ -14,3 +14,5 @@ Launch the environment by using docker-compose commands
 ```bash
 $ docker-compose up 
 ```
+
+The Jupyter notebook will be available on Server's IP on port 8888. You can change that in the `docker-compose.yaml` file.
